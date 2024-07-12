@@ -11,4 +11,13 @@ def sum(a, b):
 	return sum
 	
 	
-print(sum (input1, input2))	
+	
+def mult(a, b):
+
+
+	mult1 = a * b
+
+	return mult1 
+		
+	
+print(mult (input1, input2))	
