@@ -1,0 +1,14 @@
+
+input1 = int(input("enter inp1: "))
+input2 = int(input("enter inp2: "))
+
+
+def sum(a, b):
+
+
+	sum = a + b
+
+	return sum
+	
+	
+print(sum (input1, input2))	
